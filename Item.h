@@ -2,9 +2,7 @@
 #include <string>
 #include <iostream>
 
-// ─────────────────────────────────────────────
-//  Abstract base class for all library items
-// ─────────────────────────────────────────────
+
 class Item {
 protected:
     std::string itemID;
